@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /loanmantra/
+
+User-agent: GPTBot
+Disallow: /loanmantra/
+
+User-agent: CCBot
+Disallow: /loanmantra/
+
+User-agent: anthropic-ai
+Disallow: /loanmantra/
+
+User-agent: PerplexityBot
+Disallow: /loanmantra/
