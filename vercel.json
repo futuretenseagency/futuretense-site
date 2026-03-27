@@ -1,6 +1,15 @@
 {
   "headers": [
     {
+      "source": "/tonchin/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive, nosnippet, noimageindex"
+        }
+      ]
+    },
+    {
       "source": "/loanmantra/(.*)",
       "headers": [
         {

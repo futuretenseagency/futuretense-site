@@ -1,2 +1,31 @@
 User-agent: *
 Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: GPTBot
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: CCBot
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: anthropic-ai
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: PerplexityBot
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: Google-Extended
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: Bytespider
+Disallow: /tonchin/
+Disallow: /loanmantra/
+
+User-agent: ClaudeBot
+Disallow: /tonchin/
+Disallow: /loanmantra/
