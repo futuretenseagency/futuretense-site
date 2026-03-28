@@ -30,3 +30,4 @@ Disallow: /
 User-agent: *
 Disallow: /tonchin/
 Disallow: /loanmantra/
+Disallow: /scalemates/
