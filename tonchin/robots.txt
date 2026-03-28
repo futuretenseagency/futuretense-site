@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /tonchin/
+
+User-agent: GPTBot
+Disallow: /tonchin/
+
+User-agent: CCBot
+Disallow: /tonchin/
+
+User-agent: anthropic-ai
+Disallow: /tonchin/
+
+User-agent: PerplexityBot
+Disallow: /tonchin/
